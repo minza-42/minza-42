@@ -28,9 +28,9 @@ Today, I put that same passion and care into becoming a great Web Developer 💻
 | ----------------------------- | --------------------------------------------------------------------- | ---------- |
 | 🐱 **Cat Hotel Website**      | A playful and responsive website for cat lovers                       | HTML, CSS  |
 | 🐾 **Minais Zoo**             | A fun animal-themed website where I combined creativity and UI design | HTML, CSS  |
+| 🧩 **HTML Practice Projects** | Smaller assignments to learn structure and clean code                 | HTML, CSS  |
 | 🎬 **API Mashup**             | Search movies + GIFs powered by multiple APIs                         | JavaScript |
 | 🚌 **Bus System**             | Passenger management, lists & logic                                   | C#         |
-| 🧩 **HTML Practice Projects** | Smaller assignments to learn structure and clean code                 | HTML, CSS  |
 | 🎨 **Design Exercises**       | Styling experiments to learn layout & responsiveness                  | CSS        |
 
 More cool projects are coming soon — stay tuned! ✨
