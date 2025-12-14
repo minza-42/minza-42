@@ -22,17 +22,16 @@ Today, I put that same passion and care into becoming a great Web Developer 💻
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
-
 ### 🚀 Featured Projects
 
-| Project                       | Description                                                           | Tech       |
-| ----------------------------- | --------------------------------------------------------------------- | ---------- |
-| 🐱 **Cat Hotel Website**      | A playful and responsive website for cat lovers                       | HTML, CSS  |
-| 🐾 **Minais Zoo**             | A fun animal-themed website where I combined creativity and UI design | HTML, CSS  |
-| 🧩 **HTML Practice Projects** | Smaller assignments to learn structure and clean code                 | HTML, CSS  |
-| 🎬 **API Mashup**             | Search movies + GIFs powered by multiple APIs                         | JavaScript |
-| 🎨 **Design Exercises**       | Styling experiments to learn layout & responsiveness                  | CSS        |
-| 🚌 **Bus System**             | Passenger management, lists & logic                                   | C#         |
+| Project | Description | Tech |
+|-------|------------|------|
+| 🐱 **Cat Hotel Website** | A playful and responsive website for cat lovers, focusing on structure and accessibility | HTML, CSS |
+| 🐾 **Minais Zoo** | An animal-themed website where creativity meets clean UI design | HTML, CSS |
+| 🧩 **HTML Practice Projects** | Smaller assignments focused on semantic structure and clean code | HTML, CSS |
+| 🎬 **API Mashup** | Movie search combined with GIF results using multiple APIs | JavaScript |
+| 🎨 **Design Exercises** | Styling experiments to improve layout, responsiveness, and visual hierarchy | CSS |
+| 🚌 **Bus System** | Console application simulating passenger management with lists and logic | C# |
 
 More cool projects are coming soon — stay tuned! ✨
 
