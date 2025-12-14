@@ -32,6 +32,7 @@ Today, I put that same passion and care into becoming a great Web Developer 💻
 | 🎬 **API Mashup** | Movie search combined with GIF results using multiple APIs | JavaScript |
 | 🎨 **Design Exercises** | Styling experiments to improve layout, responsiveness, and visual hierarchy | CSS |
 | 🚌 **Bus System** | Console application simulating passenger management with lists and logic | C# |
+| 🚗 **Rent-a-Car System** | Java console application for managing car rentals, customers, and bookings | Java |
 
 More cool projects are coming soon — stay tuned! ✨
 
