@@ -62,5 +62,3 @@ Curious, committed and always improving — one line of code at a time 🚀
 ### 📊 GitHub Stats
 
 ## ![Minai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=minza-42&show_icons=true&theme=radical)
-
-> “Learning every day, coding with a smile 😊”
