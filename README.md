@@ -1,4 +1,4 @@
-# 🦦 Hey! Nice to meet you.
+# Hey! Nice to meet you.
 
 Welcome to my GitHub page!  
 I'm **Minai**, a Frontend Developer student based in **Uppsala, Sweden** —  
