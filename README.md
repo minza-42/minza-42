@@ -4,10 +4,9 @@ Welcome to my GitHub page!
 I'm **Minai**, a Frontend Developer student based in **Uppsala, Sweden** —  
 currently looking for a **LIA internship (Front-end)** starting from **Spring 2027**.
 
-Animals have always been a huge passion in my life.  
-I once dreamed of working with animals full-time, but due to health reasons,  
-that dream transformed into a beloved hobby and interest instead.  
-Today, I put that same passion and care into becoming a great Web Developer.
+I have a strong interest in creating clean, accessible, and user-friendly web experiences. I enjoy learning by building real projects and continuously improving my skills in HTML, CSS, and JavaScript.
+
+Outside of development, I have a long-standing passion for animals, which has shaped my sense of responsibility, patience, and attention to detail. Today, I channel those qualities into my work as a developer.
 
 ---
 
