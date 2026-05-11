@@ -1,12 +1,16 @@
-# Hey! Nice to meet you.
+# Hey! Nice to meet you 👋
 
 Welcome to my GitHub page!  
-I'm **Minai**, a Frontend Developer student based in **Uppsala, Sweden** —  
-currently looking for a **LIA internship (Front-end)** starting from **Spring 2027**.
+I'm **Minai**, a **24-year old** Frontend Developer student based in **Uppsala, Sweden** —  
+currently looking for a **LIA internship (Front-end)** starting from **Spring 2027** where I can contribute to meaningful projects.
 
-I have a strong interest in creating clean, accessible, and user-friendly web experiences. I enjoy learning by building real projects and continuously improving my skills in HTML, CSS, and JavaScript.
+---
 
-Outside of development, I have a long-standing passion for animals, which has shaped my sense of responsibility, patience, and attention to detail. Today, I channel those qualities into my work as a developer.
+### Who am I?
+
+I bridge the gap between creative design and technical logic. With a background in service and technical support, I bring a unique perspective on user needs and accessibility to every project I build.
+
+Beyond the code, I have a background in animal care, which has shaped my sense of empathy, patience, and attention to detail. Whether I'm repairing mobile hardware or building a complex web interface, my goal is always the same: to create a seamless and reliable experience for the user.
 
 ---
 
@@ -30,7 +34,7 @@ Outside of development, I have a long-standing passion for animals, which has sh
 
 | Project                 | Description                                                                                                                                                                                                                                                                                                        | Tech                                     |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------- |
-| **Arossnickeri**        | I redesigned and rebuilt my father's company website from scratch using HTML, CSS, and JavaScript. The project focuses on modern design, responsiveness, and accessibility, and was migrated from WordPress to a custom solution deployed via FileZilla.                                                           | PHP, HTML, CSS, JavaScript                    |
+| **Arossnickeri**        | I redesigned and rebuilt my father's company website from scratch using HTML, CSS, and JavaScript. The project focuses on modern design, responsiveness, and accessibility, and was migrated from WordPress to a custom solution deployed via FileZilla.                                                           | PHP, HTML, CSS, JavaScript               |
 | **Anoteros**            | I redesigned and rebuilt a client’s website from scratch, focusing on modern design, improved structure, and responsiveness. The site is built with PHP, CSS, and HTML. Publishing and file management were handled via FileZilla.                                                                                 | PHP, CSS, HTML                           |
 | **The Temple of Five**  | A team-built digital escape room with five elemental puzzle chambers and my first TypeScript group project. I built the Water Room: a procedurally generated pipe puzzle with real-time flow detection and full accessibility support.                                                                             | HTML, SCSS, TypeScript, Vite             |
 | **Minza's Sushi House** | A sushi e-commerce web app built with vanilla JavaScript. It includes menu filtering, cart functionality, checkout with form validation, and dynamic pricing with discounts and surcharges. Features also include dark/light mode and full accessibility support.                                                  | HTML, JavaScript, SCSS, E-commerce       |
@@ -60,6 +64,14 @@ Curious, committed and always improving — one line of code at a time.
 ---
 
 ### Find me online
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/minai-karlsson-7192a4392)
+
+---
+
+### GitHub Stats
+
+![Minai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=minza-42&show_icons=true&theme=radical)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/minai-karlsson-7192a4392)
 
