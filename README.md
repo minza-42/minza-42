@@ -1,8 +1,7 @@
 # Hey! Nice to meet you 👋
 
 Welcome to my GitHub page!  
-I'm **Minai**, a **24-year old** Frontend Developer student based in **Uppsala, Sweden** —  
-currently looking for a **LIA internship (Front-end)** starting from **Spring 2027** where I can contribute to meaningful projects.
+I'm **Minai**, a **24-year old** Frontend Developer student based in **Uppsala, Sweden**
 
 ---
 
