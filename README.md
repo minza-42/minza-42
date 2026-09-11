@@ -46,14 +46,6 @@ Beyond the code, I have a background in animal care, which has shaped my sense o
 
 More cool projects are coming soon — stay tuned!
 
----
-
-### Who am I?
-
-I love building things that make the web more friendly, fun and accessible.  
-Curious, committed and always improving — one line of code at a time.
-
----
 
 ### ☎️ Contact me
 
