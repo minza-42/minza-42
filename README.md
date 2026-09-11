@@ -46,12 +46,11 @@ Beyond the code, I have a background in animal care, which has shaped my sense o
 
 More cool projects are coming soon — stay tuned!
 
-
+---
 ### ☎️ Contact me
 
 📩 **minai.karlsson@outlook.com**  
 📍 Uppsala, Sweden
-
 ---
 
 ### Find me online
